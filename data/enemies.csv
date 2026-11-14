@@ -1,0 +1,66 @@
+Icon,Enemy,HP,XP,Max hit,Boss
+CSprite-Bat.png,Bat,12,1,1,—
+CSprite-Skeleton3.png,Skeleton3,25,2,1,—
+CSprite-Ghoul.png,Ghoul,40,3,2,—
+CSprite-FlowerWall.png,FlowerWall,60 (armor 6),4,1,—
+CSprite-Zombie.png,Zombie,125 (armor 18),4,2,—
+CSprite-FlowerWall2.png,FlowerWall2,200 (armor 20),5,4,—
+CSprite-Werewolf.png,Werewolf,250,5,3,—
+CSprite-GiantMummy.png,GiantMummy,300 (armor 50),6,4,—
+CSprite-Bat_Elite.png,Bat Elite,400,30,2,✅
+CSprite-Skeleton3_Elite.png,Skeleton3 Elite,600 (armor 60),35,4,✅
+CSprite-Zombie_Elite.png,Zombie Elite,750 (armor 75),40,7,✅
+CSprite-TreasureBat_Elite.png,TreasureBat Elite,800,45,3,✅
+CSprite-MantisElite.png,MantisElite,"1,200 (armor 120)",50,12,✅
+CSprite-WerewolfElite.png,WerewolfElite,"2,200",55,13,✅
+CSprite-MantisElite_Ambush.png,MantisElite Ambush,"2,500",55,15,✅
+CSprite-GiantMummy_Elite.png,GiantMummy Elite,"3,000 (armor 360)",60,14,✅
+CSprite-VenusElite.png,VenusElite,"8,000 (armor 500)",65,14,✅
+CSprite-Mudman.png,Mudman,20,1,1,—
+CSprite-Ecto.png,Ecto,40,2,1,—
+CSprite-ShadeBomb.png,ShadeBomb,80,5,1,—
+CSprite-Ghost.png,Ghost,100 (armor 15),3,2,—
+CSprite-LionHead.png,LionHead,170 (armor 34),4,2,—
+CSprite-SneakyHead.png,SneakyHead,200,5,3,—
+CSprite-ApprenticeWitch.png,ApprenticeWitch,300,6,4,—
+CSprite-GhostElite.png,GhostElite,"1,500",45,9,✅
+CSprite-LionHeadElite.png,LionHeadElite,"2,000",55,10,✅
+CSprite-GhostElite_Ambush.png,GhostElite Ambush,"2,200",50,12,✅
+CSprite-QueenMedusaElite.png,QueenMedusaElite,"3,500",60,14,✅
+CSprite-QueenMedusaElite_Ambush.png,QueenMedusaElite Ambush,"4,200",65,14,✅
+CSprite-NesuferitElite.png,NesuferitElite,"4,000",50,14,✅
+CSprite-MasterWitchElite.png,MasterWitchElite,"5,500 (armor 550)",65,16,✅
+CSprite-HagElite.png,HagElite,"11,000 (armor 300)",70,10,✅
+CSprite-Merman.png,Merman,160,1,2,—
+CSprite-LizardPawn.png,LizardPawn,240 (armor 30),2,2,—
+CSprite-TwinDemon.png,TwinDemon,300 (armor 100),6,2,—
+CSprite-Minotaur.png,Minotaur,320,3,4,—
+CSprite-MilkElemental.png,MilkElemental,100 (armor 30),3,2,—
+CSprite-Golem.png,Golem,420 (armor 70),4,4,—
+CSprite-ArconAscia.png,ArconAscia,570,5,6,—
+CSprite-Gallotrice.png,Gallotrice,"1,000",6,5,—
+CSprite-MermanElite.png,MermanElite,"5,000",40,8,✅
+CSprite-MilkElementalElite.png,MilkElementalElite,"6,000 (armor 250)",45,4,✅
+CSprite-MermanElite_Ambush.png,MermanElite Ambush,"6,000",45,8,✅
+CSprite-LizardElite.png,LizardElite,"6,500",45,10,✅
+CSprite-MinotaurElite.png,MinotaurElite,"7,500",50,12,✅
+CSprite-MinotaurElite_Ambush.png,MinotaurElite Ambush,"8,000",55,14,✅
+CSprite-TritontElite.png,TritontElite,"8,000",75,12,✅
+CSprite-GolemElite.png,GolemElite,"9,000 (armor 300)",60,10,✅
+CSprite-GiantArmouredKnightElite.png,GiantArmouredKnightElite,"10,000 (armor 350)",65,16,✅
+CSprite-LostTwinElite.png,LostTwinElite,"10,000 (armor 666)",65,6,✅
+CSprite-GallotriceElite.png,GallotriceElite,"12,500",70,14,✅
+CSprite-Ghiavolo.png,Ghiavolo,440 (armor 30),4,3,—
+CSprite-Scarleton.png,Scarleton,480 (armor 50),4,3,—
+CSprite-Dragonshrimp.png,Dragonshrimp,500 (armor 100),5,6,—
+CSprite-Harpy.png,Harpy,700 (armor 120),6,7,—
+CSprite-ArchonSpada.png,ArchonSpada,"1,300 (armor 250)",7,8,—
+CSprite-DevilElite.png,DevilElite,"8,000 (armor 400)",50,10,✅
+CSprite-GiantSkulloneElite.png,GiantSkulloneElite,"14,000 (armor 450)",55,12,✅
+CSprite-GiantSkulloneElite_Ambush.png,GiantSkulloneElite Ambush,"15,000 (armor 600)",60,16,✅
+CSprite-CollosalFlameElite.png,CollosalFlameElite,"20,000",65,25,✅
+CSprite-GiantCrabElite.png,GiantCrabElite,"35,000",70,15,✅
+CSprite-GiantCrabElite_Ambush.png,GiantCrabElite Ambush,"40,000 (armor 300)",75,20,✅
+CSprite-HarpyElite.png,HarpyElite,"40,000 (armor 300)",70,12,✅
+CSprite-ManticoreElite.png,ManticoreElite,"50,000",75,22,✅
+CSprite-GalloElite.png,GalloElite,"80,000 (armor 600)",80,22,✅

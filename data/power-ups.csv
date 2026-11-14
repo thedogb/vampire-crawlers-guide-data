@@ -1,0 +1,20 @@
+Icon,Power Up,Max rank,Per rank,At max,Cost,Unlocked by,What it changes
+CSprite-Reroll.png,Reroll,5,+2,+10,200,"Shop, 250 coins",Reroll level-up or reward choices
+CSprite-Skip.png,Skip,5,+2,+10,250,Teeny Bridge,Skip a reward and take XP instead
+CSprite-Duration.png,Duration,5,+1,+5,250,"Shop, 250 coins",Duration Crawlers stay on the board
+CSprite-Banish.png,Banish,5,+2,+10,300,Weeny Bridge,Remove cards from level-up choices
+CSprite-Curse.png,Curse,5,+20%,+100%,350,Weeny Bridge,"Stronger enemies, more XP"
+CSprite-Luck.png,Luck,5,+20%,+100%,400,"Shop, 250 coins","Luck, and more 4-choice offers"
+CSprite-Max_Health.png,Max Health,5,+10%,+50%,450,"Shop, 250 coins",Max Health
+CSprite-Might.png,Might,5,+20%,+100%,500,"Shop, 250 coins",Damage dealt
+CSprite-Recovery.png,Recovery,3,+1,+3,500,"Shop, 250 coins",HP healed after each encounter
+CSprite-Growth.png,Growth,5,+20%,+100%,750,"Shop, 250 coins",XP gained
+CSprite-Area.png,Area,5,+10%,+50%,850,"Shop, 250 coins",Splash damage on every attack
+CSprite-Greed.png,Greed,4,+25%,+100%,"1,000",Inlaid Library,Coins gained
+CSprite-Amount.png,Amount,3,+1,+3,"1,250",Teeny Bridge,Projectiles fired per weapon
+CSprite-Armor_(stat).png,Armor,3,+1,+3,"1,250","Shop, 250 coins",Armor
+CSprite-Magnet.png,Magnet,1,+1,+1,"2,000",Weeny Bridge,Draw effects
+CSprite-Deal_Count.png,Deal Count,2,+1,+2,"2,500",Weeny Bridge,Cards drawn each turn
+CSprite-Crawler_Slot.png,Crawler Slot,2,+1,+2,"3,500",Teeny Bridge,Crawler slots on the board
+CSprite-Cooldown.png,Cooldown,2,+1,+2,"3,500",Teeny Bridge,Mana per turn
+CSprite-Revival.png,Revival,1,+1,+1,"4,000",Weeny Bridge,Revives per run

@@ -1,0 +1,22 @@
+Icon,Card,Mana,Slots,Why it is here
+CSprite-Phieraggi.png,Phieraggi,4,3,"350 damage, behind only Vandalier's 500 and Spirit Disturbance's 425 in the pool. Built from Phiera Der Tuphello (125) plus Eight the Sparrow (100) with any card in the Tirajisú group and an Evolution gem, so you get two playable cards on the way"
+CSprite-Vandalier.png,Vandalier,5,3,"500 damage with Knockback and Big Bird. Absurd number, and the only 5-mana card that justifies 5 mana"
+CSprite-Thousand_Edge.png,Thousand Edge,3,2,"200 printed, 180 real, plus Crit. Comes from Knife, which several starters hand you for 0 mana"
+CSprite-Hellfire.png,Hellfire,3,2,"225 with Knockback, from Fire Wand (45 at 1 mana). A 200+ hit for 3 mana, and Fire Wand is in the level-1 pool"
+CSprite-Pentagram.png,Pentagram,5,3,"Doesn't do damage, it erases a row and starts a Countdown. The only card in the game that removes a problem instead of shrinking it"
+CSprite-Lightning_Ring.png,Lightning Ring,2,3,125 for 2 mana with 3 slots. The best damage-per-mana ratio in the red section
+CSprite-Death_Spiral.png,Death Spiral,3,3,"160 to the front row with Crit, and Crit is what carries it past its printed number"
+CSprite-Ebony_Wings.png,Ebony Wings,4,3,"140 and it bombards after every turn, so the number repeats without another card"
+CSprite-La_Borra.png,La Borra,4,3,"150 plus burn, same repeating-damage logic"
+CSprite-Thunder_Loop.png,Thunder Loop,4,3,"150 and attacks again at end of turn; the best ""one card, two hits"" in the game"
+CSprite-Eight_The_Sparrow.png,Eight the Sparrow,2,3,"100 for 2 mana, and half of Phieraggi. Take it early even if you never evolve"
+CSprite-Holy_Wand.png,Holy Wand,2,2,"160 printed, 150 real, and it prioritises attackers, which is the only targeting rule that saves runs"
+CSprite-Knife.png,Knife,0,2,40 damage for zero mana with Crit. The single best 0-mana card and the start of Thousand Edge
+CSprite-Cross.png,Cross,2,3,"80 damage, no rider, no evolution. Good slots, boring card"
+CSprite-Unholy_Vespers.png,Unholy Vespers,2,2,"120 for 2 is efficient, but only 2 slots and Knockback is a coin flip"
+CSprite-Vicious_Hunger.png,Vicious Hunger,2,2,"100 and it may turn enemies into coins. Great for gold, mediocre for a boss"
+CSprite-Axe.png,Axe,2,3,45 to multiple enemies with Knockback. Multi-target is worth less than it looks when the front row dies first
+CSprite-Cherry_Bomb.png,Cherry Bomb,1,2,"45 for 1 mana with an explosion chance. Fine early, replaced by Hellfire later"
+CSprite-Fire_Wand.png,Fire Wand,1,2,"45 for 1 mana, no rider. It is here because it evolves into Hellfire, not because of the 45"
+CSprite-Gatti_Amari.png,Gatti Amari,1,2,"40 with a Scuffle chance. The randomness is the problem, not the number"
+CSprite-Garlic.png,Garlic,1,2,10 to the front row with Disarm. The damage is a rounding error; you take it for the Disarm

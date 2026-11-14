@@ -1,0 +1,17 @@
+Icon,Arcana,Effect,Unlock condition
+CSprite-Chain_Link.png,Chain Link,Combos don't clear between turns,Reach combo 12+
+CSprite-Mana_Syphon.png,Mana Syphon,+1 Mana for the rest of the run per 100 cards played,Gain 15 Mana in one turn
+CSprite-Sharp_Mind.png,Sharp Mind,Keep up to 5 Mana between turns,Play 100 purple cards
+CSprite-Experimental_Medicine.png,Experimental Medicine,Double healing,Obtain the Polentír
+CSprite-Shield_Bash.png,Shield Bash,Deal your Armor as damage to the front row after playing an Armor card,Obtain the Polentír
+CSprite-And_Another.png,And Another,Cards are free if a version was played this turn,Play 150 free-to-play cards
+CSprite-Over_The_Top.png,Over the Top,"When a Crawler expires, put them on top of your deck",Play 100 Crawler cards
+CSprite-Make_a_Scene.png,Make a Scene,Crawler triggers activate for free at the start of each turn,"Activate 1,500 Crawler abilities"
+CSprite-Jester%27s_Hat.png,Jester's Hat,Add a Wild card to your deck at the start of each floor,Play 150 Wild cards
+CSprite-Wild_Buff.png,Wild Buff,Cards picked up from light sources benefit from combo,Play 200 light-source cards
+CSprite-Swollen_Fist.png,Swollen Fist,End of turn: damage equal to your deck pile size,Reach 40 deck size
+CSprite-Your_Shield_My_Liege.png,Your Shield My Liege,Armor persists between turns,"Gain 2,000 Armor"
+CSprite-Ebb_and_Combo.png,Ebb and Combo,A discarded card has a 50% chance to add combo,Reach combo 15 in Moongolow
+CSprite-Crawler_Brawler.png,Crawler Brawler,"Crawlers trigger an extra activation at random, but they tire",Defeat Spectral Gallo with Gallo in Gallo Dungeons
+CSprite-Chair_Game.png,Chair Game,Triggers Switch 4 when no card can continue the combo,Play 50 Switch cards
+CSprite-Infinite_Combo.png,Infinite Combo,"If your last card continues the combo, redraw a hand",End 10 turns with an empty hand

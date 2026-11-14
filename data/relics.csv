@@ -1,0 +1,20 @@
+Icon,Relic,Official effect,Where to find it
+CSprite-Combo_Stack.png,Combo Stack,Play cards in ascending Mana order for a Combo Multiplier,Tutorial (hidden in the Pancakes)
+CSprite-Gem_Hammer.png,Gem Hammer,Allows applying Gems on Cards with empty gem slots,Mad Forest
+CSprite-Guiding_Light.png,Guiding Light,Makes light-source dots visible on the minimap,Inlaid Library
+CSprite-Polentír.png,Polentír,Unlocks choosing an Arcana before entering a dungeon,Furious Forest
+CSprite-Stardust_Anvil.png,Stardust Anvil,"Unlocks the Blacksmith, where gem slots can be added",Teeny Bridge
+CSprite-Overkill.png,Overkill,Extra damage to bosses for extra coins,Teeny Bridge
+CSprite-Grim_Grimoire.png,Grim Grimoire,Pause-menu list of every Evolution you've unlocked,Library West Wing
+CSprite-Arcana_Finder.png,Arcana Finder,Adds Arcana chests to dungeons,Library Sanctum
+CSprite-Bomba_Infernale.png,Bomba Infernale,Button that kills all enemies on the first floor of a cleared dungeon and collects their XP,Dairy Plant
+CSprite-Ultimate_Ultra_Overkill.png,Ultimate Ultra Overkill,Limit-breaks Overkill (more coins),Curd Refinery
+CSprite-Lapidary_Loupe.png,Lapidary Loupe,"Unlocks the Jeweller, which catalogues and manages Gems",Gallo Tower
+CSprite-Sorceress%27_Tears.png,Sorceress' Tears,Adds a Hurry button to the World Map (Hurry Mode),Gallo Tower
+CSprite-Tappo.png,Tappo,Prevents the Drowner from appearing in normal stages,Gallo Tower dungeons
+CSprite-Ovenkilt.png,Ovenkilt,Overkill in any encounter,Cappella Ultima
+CSprite-Seventh_Trumpet.png,Seventh Trumpet,Adds an Endless button to the World Map (unlocks Endless Mode),`???` (not yet documented)
+CSprite-Milky_Way_Map.png,Milky Way Map,Enemy skull markers visible on the minimap,Available from start
+CSprite-Rilevatore.png,Rilevatore,Shows how weapons will affect targets,Available from start
+CSprite-Deck_Box.png,Deck Box,Hidden relic: not listed in the relic menu; effect undocumented,Hidden
+CSprite-Galileo%27s_Hand.png,Galileo's Hand,Adds a Cap Hand Size button to the World Map,Moongolow (forced on you for the first Moongolow run)

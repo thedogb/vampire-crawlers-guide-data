@@ -1,0 +1,63 @@
+Icon,Gem,Rarity,Effect,Unlocked by
+CSprite-Adaptability.png,Adaptability,Ultra Rare,This card costs the correct amount to continue a combo.,Kill a Drowner in Gallo Dungeons
+CSprite-Afterlife.png,Afterlife,Not listed,Card's effect plays on discard.,Collect 10 in Coral
+CSprite-Amount.png,Amount,Rare,Increases Amount stat.,Gem Hammer (Mad Forest)
+CSprite-Area.png,Area,Common,Increases Area stat.,Gem Hammer (Mad Forest)
+CSprite-Armor.png,Armor,Common,Adds Armor.,Gem Hammer (Mad Forest)
+CSprite-Armor_Strike.png,Armor Strike,Very Rare,Deal Armor as damage when played.,Gain 15 Armor in one turn
+CSprite-Blue_Trigger.png,Blue Trigger,Uncommon,Adds Blue color trigger.,Play 250 blue cards
+CSprite-Bombard.png,Bombard,Rare,Ch Ch Ch Cherry Bomb.,Play Cherry Bomb 50 times
+CSprite-Calcium.png,Calcium,Rare,Deals Boney damage.,Play Bone cards 99 times
+CSprite-Coin_Card.png,Coin Card,Rare,Creates Coin Cards.,Find and play 20 Big Coin Bags
+CSprite-Coin_Count.png,Coin Count,Ultra Rare,Deal damage based on number of coins.,"Collect 100,000 coins"
+CSprite-Combo_Breaker.png,Combo Breaker,Very Rare,Consumes the combo to benefit from the multiplier.,Reach combo 5+
+CSprite-Copy.png,Copy,Very Rare,Card is copied when used.,"Play 1,000 cards"
+CSprite-Countdown.png,Countdown,Very Rare,Mana cost reduces when not used.,Play Empty Tome 321 times
+CSprite-Crawler_Caller.png,Crawler Caller,Rare,Summon all Crawlers to Hand.,Complete Library Sanctum
+CSprite-Decimate.png,Decimate,Ultra Rare,Deals 10% of enemy's health as damage.,"Deal 666,666 damage"
+CSprite-Destroy.png,Destroy,Rare,"Card burns up, but gives coins.",Play 100 light-source cards
+CSprite-Double_Damage.png,Double Damage,Common,Hits twice as hard.,Gem Hammer (Mad Forest)
+CSprite-Drain.png,Drain,Rare,Heals when enemy dies.,"Heal 1,500 HP"
+CSprite-Draw.png,Draw,Rare,Draws a card.,Gem Hammer (Mad Forest)
+CSprite-Duration.png,Duration,Uncommon,Increases Duration stat.,Play Spellbinder 10 times
+CSprite-Echo.png,Echo,Rare,Replays the previous card's effect.,"Play 3,000 cards"
+CSprite-Evolution.png,Evolution,Ultra Rare,Evolves the card into a more powerful weapon.,Find the Gem Hammer (Mad Forest)
+CSprite-Fireproof.png,Fireproof,Rare,Removes Destroy effect.,Complete the Curd Refinery
+CSprite-Free_To_Play.png,Free To Play,Ultra Rare,Card won't consume any Mana when played.,Play 200 free-to-play cards
+CSprite-Freeze.png,Freeze,Rare,Freezes a random enemy.,Play the Clock Lancet card
+CSprite-Greed.png,Greed,Uncommon,Increases Greed stat.,Play Stone Mask 10 times
+CSprite-Growth.png,Growth,Uncommon,Increases Growth stat.,Play Crown 5 times
+CSprite-Increase_Mana_Cost_1.png,Increase Mana Cost,Common,Mana cost is increased by 1.,Collect 10 Mana Orbs
+CSprite-Increase_Mana_Cost_2.png,Increase Mana Cost (2),Uncommon,Mana cost is increased by 2.,Collect 20 Mana Orbs
+CSprite-Kill_Count.png,Kill Count,Very Rare,Deal current kills total as damage to a random enemy.,"Kill 10,000 enemies total"
+CSprite-Leader.png,Leader,Very Rare,Attacks deal extra damage while the card is in your Hand.,"Deal 100,000 damage"
+CSprite-Luck.png,Luck,Common,Increase Luck stat.,Play Clover 5 times
+CSprite-Magic_Hat.png,Magic Hat,Rare,Beckons a dove from above.,Play Peachone 77 times
+CSprite-Magnetic.png,Magnetic,Very Rare,"Draws another of the same card, if you have one.","Play 2,000 cards"
+CSprite-Mana_Rebate.png,Mana Rebate,Ultra Rare,"If the card would reduce Mana to 0, receive double Mana instead.",Gain 15 Mana in one turn
+CSprite-Midas.png,Midas,Very Rare,Played cards earn coins while this is in your hand.,"Collect 5,555 coins"
+CSprite-Might.png,Might,Common,Increases Might stat.,Gem Hammer (Mad Forest)
+CSprite-Mild.png,Mild,Ultra Rare,"Never leaves the Hand, but always breaks Combo.",Complete Gallo Tower with Gallo
+CSprite-Mug.png,Mug,Common,Earns coins when enemy dies.,"Collect 3,333 coins"
+CSprite-Nduja.png,Nduja,Uncommon,Deals spicy damage.,Defeat Nesufritto in the Library
+CSprite-Purple_Trigger.png,Purple Trigger,Uncommon,Adds Purple color trigger.,Play 250 purple cards
+CSprite-Quick_Draw.png,Quick Draw,Uncommon,Card is drawn first at the start of an encounter.,Reach deck size 30
+CSprite-Rainbow.png,Rainbow,Rare,Adds all color triggers.,Activate 500 Crawler triggers
+CSprite-Recycle.png,Recycle,Rare,Card skips the Discard pile.,Have 8 cards in hand
+CSprite-Red_Trigger.png,Red Trigger,Uncommon,Adds Red color trigger.,Play 500 red cards
+CSprite-Reduce_Mana_Cost_1.png,Reduce Mana Cost,Common,Mana cost is reduced by 1.,Collect 10 Mana Orbs
+CSprite-Reduce_Mana_Cost_2.png,Reduce Mana Cost (2),Rare,Mana cost is reduced by 2.,Collect 20 Mana Orbs
+CSprite-Refund.png,Refund,Uncommon,Refunds Mana to play.,Gain 10 Mana in one turn
+CSprite-Remote.png,Remote,Rare,Summons a mine cart.,Destroy 5 mine carts
+CSprite-Restore_Health.png,Restore Health,Common,Recovers health after encounter.,Play Pummarola 10 times
+CSprite-Retain.png,Retain,Uncommon,"When the card is drawn, it stays in Hand until used.",Have 7 cards in hand
+CSprite-Return.png,Return,Rare,Returns to hand after playing.,Play 300 cards
+CSprite-Reverse_Combo.png,Reverse Combo,Rare,Allows next card to continue Combo up or down.,Reach combo 6
+CSprite-Scavenge.png,Scavenge,Not listed,Fires additional projectiles based on number of discarded cards.,Collect 15 (the wiki gives the count only)
+CSprite-Switch.png,Switch,Not listed,Discard cards and draw new ones.,Collect 5 (the wiki gives the count only)
+CSprite-Triple_Damage.png,Triple Damage,Rare,Hits thrice as hard.,"Deal 500,000 damage"
+CSprite-Uncrackable.png,Uncrackable,Ultra Rare,Card less likely to shatter.,Defeat the Trickster
+CSprite-Wild.png,Wild,Ultra Rare,Makes the card Wild.,Play 100 Wild cards
+CSprite-X_Mana.png,X Mana,Ultra Rare,Cost equals remaining Mana.,"Play 3,000 purple cards"
+CSprite-Yellow_Trigger.png,Yellow Trigger,Uncommon,Adds Yellow color trigger.,Play 250 yellow cards
+CSprite-Yin_Yang.png,Yin Yang,Rare,Even Mana: gain 1 Mana. Odd Mana: draw 1 card.,Complete Berserk Wood
