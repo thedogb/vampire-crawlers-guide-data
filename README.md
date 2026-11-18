@@ -4,6 +4,8 @@ Unofficial, hand-checked data tables for **Vampire Crawlers: The Turbo Wildcard 
 
 The same tables are published at **https://vampirecrawler.com/press/** under CC BY-SA 4.0.
 
+Also mirrored on Kaggle: [Vampire Crawlers Guide Data (Unofficial)](https://www.kaggle.com/datasets/thedoga/vampire-crawlers-guide-data).
+
 ## Files
 
 | File | Rows | Columns (first four) |
