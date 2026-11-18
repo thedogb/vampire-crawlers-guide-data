@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vampire Crawlers — Open Data Tables (13 CSVs)</title>
+<meta name="description" content="Hand-checked, unofficial data tables for Vampire Crawlers: 161 achievements, 62 gems, 19 relics, 18 evolutions, 25 characters and more, as plain CSV under CC BY-SA 4.0.">
+<link rel="canonical" href="https://thedogb.github.io/vampire-crawlers-guide-data/">
+<style>
+:root{--ink:#1d1a17;--muted:#6b6259;--paper:#f7f3ea;--line:#d9d0c1;--accent:#8c1d18;--accent2:#3c5a4a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 Georgia,"Times New Roman",serif}
+main{max-width:900px;margin:0 auto;padding:56px 22px 72px}
+h1{font-size:clamp(2rem,5vw,3.1rem);line-height:1.08;margin:0 0 10px;letter-spacing:-.02em}
+h2{font-size:1.35rem;margin:44px 0 10px;border-bottom:1px solid var(--line);padding-bottom:6px}
+p{margin:0 0 14px}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+.kicker{font:600 .76rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em;text-transform:uppercase;color:var(--accent2);margin-bottom:18px}
+.lede{font-size:1.16rem;color:#3a332d;max-width:64ch}
+.meta{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0 8px}
+.pill{border:1px solid var(--line);background:#fffdf8;border-radius:999px;padding:5px 12px;font:600 .78rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--muted)}
+table{width:100%;border-collapse:collapse;margin:14px 0 8px;font-size:.94rem;background:#fffdf8}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 .74rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--muted)}
+.note{border-left:3px solid var(--accent2);padding:12px 16px;background:#fffdf8;margin:22px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:16px 0}
+.card{border:1px solid var(--line);background:#fffdf8;padding:16px}
+.card h3{margin:0 0 6px;font-size:1.02rem}
+.card p{margin:0;font-size:.92rem;color:var(--muted)}
+footer{margin-top:52px;padding-top:18px;border-top:1px solid var(--line);font-size:.86rem;color:var(--muted)}
+code{font:600 .86em ui-monospace,SFMono-Regular,Menlo,monospace;background:#efe8da;padding:2px 5px;border-radius:3px}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dataset","name":"Vampire Crawlers — Open Data Tables","description":"Thirteen hand-checked CSV tables for Vampire Crawlers: The Turbo Wildcard from Vampire Survivors, covering cards, evolutions, gems, relics, Arcana, Power Ups, unlocks, achievements, enemies and bosses.","url":"https://thedogb.github.io/vampire-crawlers-guide-data/","sameAs":["https://github.com/thedogb/vampire-crawlers-guide-data","https://www.kaggle.com/datasets/thedoga/vampire-crawlers-guide-data"],"license":"https://creativecommons.org/licenses/by-sa/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"Vampire Crawlers Guide","url":"https://vampirecrawler.com/"},"dateModified":"2026-11-18"}
+</script>
+</head>
+<body>
+<main>
+<div class="kicker">Open data · Unofficial · CC BY-SA 4.0</div>
+<h1>Vampire Crawlers, as tables you can actually query.</h1>
+<p class="lede">Thirteen hand-checked CSV files covering every card, evolution, gem, relic, Arcana, Power Up, unlock, achievement, enemy and boss in <em>Vampire Crawlers: The Turbo Wildcard from Vampire Survivors</em>. No API key, no scraping, no spreadsheet archaeology.</p>
+<div class="meta">
+<span class="pill">13 tables</span><span class="pill">727 data rows</span><span class="pill">snapshot 2026-11-18</span><span class="pill">plain UTF-8 CSV</span>
+</div>
+<div class="note">
+<strong>What this is.</strong> A public mirror of the data tables behind <a href="https://vampirecrawler.com/press/">vampirecrawler.com/press</a>. The site has the readable, cross-linked version; this repository is the machine-friendly one. Both are unofficial and not affiliated with poncle or Nosebleed Interactive.
+</div>
+
+<h2>Download the tables</h2>
+<table>
+<thead><tr><th>File</th><th>Rows</th><th>What's inside</th></tr></thead>
+<tbody>
+<tr><td><a href="data/achievements.csv"><code>achievements.csv</code></a></td><td class="num">161</td><td>Official Steam description and unlock condition for every achievement.</td></tr>
+<tr><td><a href="data/arcana.csv"><code>arcana.csv</code></a></td><td class="num">16</td><td>Arcana effects and unlock conditions.</td></tr>
+<tr><td><a href="data/boss-notes.csv"><code>boss-notes.csv</code></a></td><td class="num">25</td><td>Boss HP, armor, knockback and fight notes.</td></tr>
+<tr><td><a href="data/bosses.csv"><code>bosses.csv</code></a></td><td class="num">77</td><td>Full boss stat block: HP, armor, knockback, resistances.</td></tr>
+<tr><td><a href="data/card-damage.csv"><code>card-damage.csv</code></a></td><td class="num">17</td><td>Card damage values by mana and slot count.</td></tr>
+<tr><td><a href="data/cards.csv"><code>cards.csv</code></a></td><td class="num">21</td><td>Card mana cost, slot count and effect text.</td></tr>
+<tr><td><a href="data/enemies.csv"><code>enemies.csv</code></a></td><td class="num">65</td><td>Enemy HP, XP value and zone appearance.</td></tr>
+<tr><td><a href="data/enemy-resistances.csv"><code>enemy-resistances.csv</code></a></td><td class="num">45</td><td>HP, knockback and disarm resistance per enemy.</td></tr>
+<tr><td><a href="data/evolutions.csv"><code>evolutions.csv</code></a></td><td class="num">18</td><td>Every evolution recipe: weapon + item + mana.</td></tr>
+<tr><td><a href="data/gems.csv"><code>gems.csv</code></a></td><td class="num">62</td><td>Gem rarity and effect, including the hidden ones.</td></tr>
+<tr><td><a href="data/power-ups.csv"><code>power-ups.csv</code></a></td><td class="num">19</td><td>Power Up max rank and per-rank effect.</td></tr>
+<tr><td><a href="data/relics.csv"><code>relics.csv</code></a></td><td class="num">19</td><td>Official relic effect and where to find it.</td></tr>
+<tr><td><a href="data/unlocks.csv"><code>unlocks.csv</code></a></td><td class="num">182</td><td>Town Hall unlocks and the exact way to get each one.</td></tr>
+</tbody>
+</table>
+<p style="font-size:.88rem;color:var(--muted)">Row counts exclude the header. The 727 total is the sum of the tables above.</p>
+
+<h2>How to use it</h2>
+<div class="grid">
+<div class="card"><h3>Build a calculator</h3><p>Join <code>cards.csv</code> with <code>card-damage.csv</code> to reproduce the in-game damage formula. The worked version lives at <a href="https://vampirecrawler.com/damage-formula/">vampirecrawler.com/damage-formula</a>.</p></div>
+<div class="card"><h3>Check an evolution</h3><p><code>evolutions.csv</code> has the weapon, the item and the mana cost in separate columns, so you can filter instead of squinting at a chart.</p></div>
+<div class="card"><h3>Track completion</h3><p><code>achievements.csv</code> plus <code>unlocks.csv</code> is the full 161 + 182 checklist, with the official wording preserved.</p></div>
+<div class="card"><h3>Cite it</h3><p>Link this page or the <a href="https://vampirecrawler.com/press/">press page</a> and credit “Vampire Crawlers Guide”. License is CC BY-SA 4.0.</p></div>
+</div>
+
+<h2>Method and caveats</h2>
+<p>Values were read from the game and cross-checked against the official Steam build, the in-game compendium, and the public patch notes. Where a number is version-dependent, the snapshot date above is the version boundary. If a patch changes a value, the CSV is wrong until it is updated — that is the trade-off of a dated snapshot.</p>
+<p>Names, art and mechanics belong to poncle and Nosebleed Interactive. This repository is an unofficial reference and is not endorsed by them.</p>
+
+<h2>Read the guide</h2>
+<p>The human-readable version — with the reasoning, the tier list and the “why” behind each number — is at <a href="https://vampirecrawler.com/">vampirecrawler.com</a>. Start with <a href="https://vampirecrawler.com/press/">the press &amp; data page</a> if you need a citable summary, or <a href="https://vampirecrawler.com/tier-list/">the tier list</a> if you just want to know what to pick.</p>
+
+<footer>
+<p>Vampire Crawlers — Open Data Tables · snapshot 2026-11-18 · <a href="https://github.com/thedogb/vampire-crawlers-guide-data">source on GitHub</a> · <a href="https://www.kaggle.com/datasets/thedoga/vampire-crawlers-guide-data">mirror on Kaggle</a> · CC BY-SA 4.0</p>
+</footer>
+</main>
+</body>
+</html>
