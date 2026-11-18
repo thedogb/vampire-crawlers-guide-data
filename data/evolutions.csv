@@ -2,12 +2,12 @@ Evolution,Weapon,+ Item,Mana,Damage (card text),Effect
 Bloody Tear,Whip,Heart,2,40,Heal 2 on Crit
 Holy Wand,Magic Wand,Tome,2,160,Prioritizes attackers
 NO FUTURE,Runetracer,Armor,3,15,Bounces and explodes
-Thousand Edge,CSprite-Knife.png,Bracer,3,200,Crit
-Hellfire,CSprite-Fire_Wand.png,Spinach,3,225,Knockback
+Thousand Edge,Knife,Bracer,3,200,Crit
+Hellfire,Fire Wand,Spinach,3,225,Knockback
 Thunder Loop,Lightning Ring,Duplicator,4,150,Hits again at end of turn
-Death Spiral,CSprite-Axe.png,Candle,3,160,Crit
-Soul Eater,CSprite-Garlic.png,Pummarola,3,20,Heal 2 and Disarm
-Unholy Vespers,CSprite-King_Bible.png,Spellbinder,2,120,Knockback
+Death Spiral,Axe,Candle,3,160,Crit
+Soul Eater,Garlic,Pummarola,3,20,Heal 2 and Disarm
+Unholy Vespers,King Bible,Spellbinder,2,120,Knockback
 Heaven Sword,Cross,Clover,3,100,Crit
 Gorgeous Moon,Pentagram,Crown,1–5,Erase,Moonrise
 Phieraggi,Phiera Der Tuphello + Eight the Sparrow,Tirajisú,4,350,—
